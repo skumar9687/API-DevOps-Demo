@@ -1,0 +1,10 @@
+2018-11-25 13:24:14,845 INFO  [DefaultSoapUICore] Creating new settings at [C:\WINDOWS\system32\config\systemprofile\soapui-settings.xml]
+2018-11-25 13:24:17,175 INFO  [PluginManager] 0 plugins loaded in 1 ms
+2018-11-25 13:24:17,175 INFO  [DefaultSoapUICore] All plugins loaded
+2018-11-25 13:24:18,272 INFO  [WsdlProject] Loaded project from [file:/E:/POC/API-Demo-soapui-project.xml]
+2018-11-25 13:24:18,289 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [API-Demo]
+2018-11-25 13:24:18,289 INFO  [SoapUITestCaseRunner] Running TestCase [V1 TestCase]
+2018-11-25 13:24:18,295 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [V1 TestCase]
+2018-11-25 13:24:18,301 INFO  [SoapUITestCaseRunner] running step [ValidRequest]
+2018-11-25 13:24:20,254 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [V1 TestCase], time taken: 1453ms, status: FINISHED
+2018-11-25 13:24:20,254 INFO  [SoapUITestCaseRunner] TestCase [V1 TestCase] finished with status [FINISHED] in 1453ms
